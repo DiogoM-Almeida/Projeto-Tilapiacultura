@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DiogoM-Almeida/Projeto-Tilapiacultura">
-    <img src="Imagens/logo.png" alt="Logo" width="80" height="80">
+    <img src="Imagens/logo.png" alt="Logo" width="240" height="240">
   </a>
 
 <h3 align="center">Projeto Tilapiacultura</h3>
@@ -40,7 +40,7 @@
   <summary>Indice</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
+      <a href="#sobre-o-projeto">Sobre o Projeto</a>
       <ul>
         <li><a href="#built-with">Construido Com:</a></li>
       </ul>
@@ -56,7 +56,6 @@
         </ul>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
   </ol>
 </details>
 
