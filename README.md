@@ -42,17 +42,17 @@
     <li>
       <a href="#sobre-o-projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Construido Com:</a></li>
+        <li><a href="#construido-com">Construido Com:</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Instalando</a>
+      <a href="#instalando">Instalando</a>
       <ul>
-        <li><a href="#executavel">Instalando o executavel</a></li>
-        <li><a href="#dev">Instalação para Desenvolvimento</a></li>
+        <li><a href="#instalando-o-executavel">Instalando o executavel</a></li>
+        <li><a href="#instalação-para-desenvolvimento">Instalação para Desenvolvimento</a></li>
         <ul>
-          <li><a href="#prerequisites">Pre-requisitos</a></li>
-          <li><a href="#installation">Intsalação</a></li>
+          <li><a href="#pre-requisitos">Pre-requisitos</a></li>
+          <li><a href="#intsalação">Intsalação</a></li>
         </ul>
       </ul>
     </li>
