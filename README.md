@@ -49,10 +49,10 @@
       <a href="#instalando">Instalando</a>
       <ul>
         <li><a href="#instalando-o-executavel">Instalando o executavel</a></li>
-        <li><a href="#instalação-para-desenvolvimento">Instalação para Desenvolvimento</a></li>
+        <li><a href="#instalando-da-fonte">Instalação para Desenvolvimento</a></li>
         <ul>
           <li><a href="#pre-requisitos">Pre-requisitos</a></li>
-          <li><a href="#intsalação">Intsalação</a></li>
+          <li><a href="#Instalação">Intsalação</a></li>
         </ul>
       </ul>
     </li>
