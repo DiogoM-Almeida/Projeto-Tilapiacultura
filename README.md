@@ -110,7 +110,11 @@ Você deve ter python 3.11 instalado.
    ```sh
    pip install mysql-connector-python reportlab
    ```
-4. Execute o main.py
+4. Importe o arquivo Bakcup.sql para o mysql
+   
+5. Abra a pasta Banco e altere o arquivo stringConexao.txt com os dados da conexão do seu banco Mysql
+   
+6. Execute o main.py
    ```sh
    python main.py
    ```
